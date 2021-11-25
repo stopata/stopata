@@ -5,3 +5,15 @@ h1 {letter-spacing: 6px}
 .byAparna{
   font-size: 18px;
 }
+#myBtn {
+  font-size: 18px;
+  outline: none;
+  border-radius: 4px;
+  color: black;
+  cursor: pointer;
+
+}
+#myBtn:hover {
+  color: white;
+  background-color: #555;
+}
